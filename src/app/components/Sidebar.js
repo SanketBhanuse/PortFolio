@@ -51,7 +51,7 @@ const Sidebar = () => {
             </div>
             <div className="button">
                 <button
-                    onClick={() => window.open("https://drive.google.com/uc?export=download&id=11gbCtG_YuN3fY6Fcl6qcAd3YTekjqR7y", "_blank")}
+                    onClick={() => window.open("https://drive.google.com/uc?export=download&id=1FPxyeHSuneyEGzXp6DP-7zak4r93dV2N", "_blank")}
                     className='flex gap-2 justify-center items-center px-3 py-2 w-full text-[#ECFAE5] bg-[#537D5D] hover:bg-[#ECFAE5] hover:text-black border border-[#537D5D] rounded-md transition-all transform-fill cursor-pointer mt-2'>
                     Download Resume <FaDownload className='inline-block' />
                 </button>
